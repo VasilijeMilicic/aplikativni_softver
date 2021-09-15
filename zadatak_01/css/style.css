@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lightblue;
+    margin-left:5px ;
+    margin-right: 5px;
+}
+
+header h1{
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Algerian;
+    word-spacing: 20px;
+    letter-spacing: 7px;
+    color: red;
+    
+}
+
+main .pri-heder h3{
+    text-align-last: center;
+    text-decoration: underline;
+    word-spacing: 20px;
+    color: red;
+    background-color: white;
+    word-spacing: 20px;
+    letter-spacing: 7px;
+   
+}
+
+main .row-1 h3{
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: blue;
+    text-decoration:line-through;
+}
+
+main .row-2 h3{
+    background-color: black;
+    color: red;
+    text-align: right;
+    word-spacing: 20px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+main .row-3 h3{
+    color: white;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+}
+
+main .row-3 h3 #r1{
+    color: red;
+    width: bold;
+    font-size: 30px;
+   
+}
+
+main .row-4 h3{
+    color: blue;
+    font-style: italic;
+    font-size: 30px;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    text-align: right;
+    margin-top: 10px;
+   
+}
